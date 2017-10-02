@@ -1,0 +1,29 @@
+<div class="col-sm-4 col-md-3 side sh-r">
+  <div class="user-profile text-center">
+    <img ng-src="{{profile.picture}}">
+    <h4>{{profile.name}}</h4>
+    <p>{{profile.profession}}</p>
+    
+    <hr>
+    
+    <ul class="features list-group">
+      <li class="list-group-item" ng-repeat="data in profile.info">
+        {{data.content}}
+        <i class="fa fa-{{data.icon}}"></i>
+      </li>
+    </ul>
+    
+    <button type="button" class="btn btn-danger mt-3" ng-click="printVersion()">
+      Printable version <i class="fa fa-print"></i>
+    </button>
+    
+  </div>
+  
+  <hr>
+  
+  <ul class="navigation sh-t">
+    <li><a href="/portfolio">Resume</a></li>
+    <li><a href="portfolio">Portfolio</a></li>
+    <li><a href="hire">Hire me!</a></li>
+  </ul>
+</div>

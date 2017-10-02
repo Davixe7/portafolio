@@ -1,0 +1,106 @@
+{
+  "name" : "David Guilarte",
+  "profession" : "Fullstack Web Developer",
+  "info" : [
+    {
+      "content":"+584147912134",
+      "icon" : "whatsapp"
+    },
+    {
+      "content":"davidguilarte7@gmail.com",
+      "icon" : "envelope"
+    },
+    {
+      "content":"github.com/davixe7",
+      "icon" : "github"
+    }
+  ],
+  "about" : "Soy desarrollador web con 5 años de experiencia. Siento una gran afición por descubrir, integrar, solucionar, y mejorar el mundo en el que vivo. Hasta ahora la herramienta para ello ha sido el desarrollo de software, ¡y funciona de maravilla!",
+  "picture" : "https://dl.dropbox.com/s/r9rj10gugzr6lj7/profile.jpg?dl=0",
+  "technologies" : [
+    {
+      "name" : "Javascript",
+      "image" : "javascript",
+      "yoe" : "5"
+    },
+    {
+      "name" : "NodeJS",
+      "image" : "nodejs",
+      "yoe" : "2"
+    },
+    {
+      "name" : "AngularJS",
+      "image" : "angularjs",
+      "yoe" : "2"
+    },
+    {
+      "name" : "MongoDB",
+      "image" : "mongodb",
+      "yoe" : "2"
+    },
+    {
+      "name" : "HTML[5]",
+      "image" : "html5",
+      "yoe" : "5"
+    },
+    {
+      "name" : "CSS[3]",
+      "image" : "css3",
+      "yoe" : "5"
+    },
+    {
+      "name" : "JQuery",
+      "image" : "jquery",
+      "yoe" : "5"
+    },
+    {
+      "name" : "Bootstrap",
+      "image" : "bootstrap",
+      "yoe" : "5"
+    },
+    {
+      "name" : "PHP",
+      "image" : "php",
+      "yoe" : "4"
+    },
+    {
+      "name" : "MySQL",
+      "image" : "mysql",
+      "yoe" : "4"
+    },
+    {
+      "name" : "Wordpress",
+      "image" : "wordpress",
+      "yoe" : "4"
+    },
+    {
+      "name" : "Github",
+      "image" : "github",
+      "yoe" : "4"
+    },
+    {
+      "name" : "Photoshop",
+      "image" : "photoshop",
+      "yoe" : "4"
+    },
+    {
+      "name" : "Illustrator",
+      "image" : "illustrator",
+      "yoe" : "4"
+    }
+  ],
+  "workexp" : [
+    {
+      "name" : "Freelancer.com",
+      "image" : "freelancer.svg",
+      "yoe" : "5"
+    }
+  ],
+  "formation" : [
+    {
+      "name" : "IUP Santiago Mariño",
+      "image" : "psm.svg",
+      "yoe" : "5 años en Ingeniería de Sistemas"
+    }
+  ]
+}

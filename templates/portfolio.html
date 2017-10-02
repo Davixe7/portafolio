@@ -1,0 +1,20 @@
+<ng-include src="'/portafolio/templates/sidebar.html'" include-replace ></ng-include>
+<div class="col-sm-6 sm-offset-1 main portfolio sh-t">
+  <div class="viewport ">
+    <img ng-src="{{currentProject.mainPicture}}">
+  </div>
+  <div class="description sh-t">
+    <h3 class="ribbon sh-b" ng-click="toggleText()">Description</h3>
+    <div class="col text">
+      <h4>{{currentProject.title}}</h4>
+      <p>{{currentProject.description}}</p>
+    </div>
+  </div>
+</div>
+<div class="col-sm-3 no-gutters">
+  <ul class="list-group projects">
+    <li class="list-group-item" ng-repeat="project in projects" ng-click="setCurrentProject(project._id)" ng-class="{active:project._id == currentProject._id}">
+      {{project.title}}
+    </li>
+  </ul>
+</div>

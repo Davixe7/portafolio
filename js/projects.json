@@ -1,0 +1,78 @@
+[
+  {
+    "_id" : 1,
+    "title" : "Prepgods",
+    "description" : "Personalized meals delivered to your home or your workplace. This project is the idea of an entrepeneur which offers personalized meals based on your weight, height, metabolism, daily routine etc. Includes a very illustrative landing page, multiple plans selection proccess, a calculator for your body description and an order/checkout process",
+    "mainPicture" : "https://dl.dropbox.com/s/ipqj1pvpu7dguld/prepgods.jpg?dl=0",
+    "employeer" : {
+      "name" : "Lee Bandoni",
+      "profession" : "Professional Chef / Entrepreneur"
+    }
+  },
+  {
+    "_id" : 2,
+    "title" : "Esparta Viajes",
+    "description" : "Esparta viajes es una Tour operadora ubicada en la isla de Margarita, cuyo norte es proporcionar los diferentes servicios turísticos y de transporte ajustados a las necesidades de todos nuestros clientes, con eficiencia y esmero, garantizando sus días de recreación, descanso y negocios con la conformidad que merecen.",
+    "mainPicture" : "https://dl.dropbox.com/s/b1c5nc5ldy02qok/espartav.jpg?dl=0",
+    "employeer" : {
+      "name" : "Nicolas Vicent",
+      "profession" : "Lic. Hosteleria y Turismo"
+    }
+  },
+  {
+    "_id" : 3,
+    "title" : "Credinum",
+    "description" : "Somos una empresa que desde el año 2013 ofrece financiación a particulares y comerciantes a lo largo de todo el país. Otorgamos préstamos en efectivo o financiación de equipamiento a comerciantes mediante pago por día a través de nuestros representantes zonales y adelantos en efectivo con tarjeta de crédito en forma online a toda la república de Argentina.",
+    "mainPicture" : "https://dl.dropbox.com/s/z8xtea4ypretm9s/credinum.jpg?dl=0",
+    "employeer" : {
+      "name" : "Pablo Mayans",
+      "profession" : "Salesman / Entrepreneur"
+    }
+  },
+  {
+    "_id" : 4,
+    "title" : "PMstore",
+    "description" : "Te brindamos el mejor equipamiento comercial y para el hogar de segunda mano, al mejor precio.  Contamos con stock propio pero lo que no tengamos nos lo pedís mediante el formulario de contacto y te lo conseguimos en menos de 5 días.  Nuestro principal servicio es encontrar lo que necesites y que ahorres una suma importante de dinero frente al costo de un producto nuevo, brindándote uno de segunda mano en la condición que necesites de acuerdo a tu presupuesto y con el objetivo de que logres las mismas prestaciones que con un producto nuevo.",
+    "mainPicture" : "https://dl.dropbox.com/s/bs1ge7qmjsuzvxn/pmstore.jpg?dl=0",
+    "employeer" : {
+      "name" : "Pablo Mayans",
+      "profession" : "Salesman / Entrepreneur"
+    }
+  },
+  {
+    "_id" : 5,
+    "title" : "Adventurous India",
+    "description" : "Imagine you are in dire need of new sports shoes and have to get them before the weekend. Are you willing to take a day off from work just to go hunting for a pair in the crowded malls, foraging through endless shops for the right designs and color options? Will you wait in never-ending queues in front of the billing counter? Oh, and are you willing to pay the MRP for something that you could get for less? Are you willing to face so many hardships just for a pair of sports shoes? Or do you want to sit in your air-conditioned office, work diligently on your projects, impress your seniors, and during the coffee break, browse through the massive selection of sports footwear on Flipkart. See how easy shopping on Flipkart is! You do not have to embark on Tolkien-like quests for your shopping needs. Just wish for something and we will deliver.",
+    "mainPicture" : "https://dl.dropbox.com/s/tclyl7iftd9w5ui/ai.jpg?dl=0"
+  },
+  {
+    "_id" : 6,
+    "title" : "Ubeed",
+    "description" : "Lorem ipsum dolor sit amet, libero turpis non cras ligula, id commodo, aenean est in volutpat amet sodales, porttitor bibendum facilisi suspendisse, aliquam ipsum ante morbi sed ipsum mollis. Sollicitudin viverra, vel varius eget sit mollis. Commodo enim aliquam suspendisse tortor cum diam, commodo facilisis, rutrum et duis nisl porttitor, vel eleifend odio ultricies ut, orci in adipiscing felis velit nibh. Consectetuer porttitor feugiat vestibulum sit feugiat, voluptates dui eros libero. Etiam vestibulum at lectus.",
+    "mainPicture" : "https://dl.dropbox.com/s/269q2v4w9qvcwff/ubeed.jpg?dl=0",
+    "employeer" : {
+      "name" : "Carlos Smidth",
+      "profession" : "Entrepreneur"
+    }
+  },
+  {
+    "_id" : 7,
+    "title" : "Homebaked",
+    "description" : "Lorem ipsum dolor sit amet, libero turpis non cras ligula, id commodo, aenean est in volutpat amet sodales, porttitor bibendum facilisi suspendisse, aliquam ipsum ante morbi sed ipsum mollis. Sollicitudin viverra, vel varius eget sit mollis. Commodo enim aliquam suspendisse tortor cum diam, commodo facilisis, rutrum et duis nisl porttitor, vel eleifend odio ultricies ut, orci in adipiscing felis velit nibh. Consectetuer porttitor feugiat vestibulum sit feugiat, voluptates dui eros libero. Etiam vestibulum at lectus.",
+    "mainPicture" : "https://dl.dropbox.com/s/nlntuud58wzp76a/homebaked.jpg?dl=0",
+    "employeer" : {
+      "name" : "Mitsuaki Chi",
+      "profession" : "Entrepreneur"
+    }
+  },
+  {
+    "_id" : 8,
+    "title" : "Haberconf",
+    "description" : "Lorem ipsum dolor sit amet, libero turpis non cras ligula, id commodo, aenean est in volutpat amet sodales, porttitor bibendum facilisi suspendisse, aliquam ipsum ante morbi sed ipsum mollis. Sollicitudin viverra, vel varius eget sit mollis. Commodo enim aliquam suspendisse tortor cum diam, commodo facilisis, rutrum et duis nisl porttitor, vel eleifend odio ultricies ut, orci in adipiscing felis velit nibh. Consectetuer porttitor feugiat vestibulum sit feugiat, voluptates dui eros libero. Etiam vestibulum at lectus.",
+    "mainPicture" : "https://dl.dropbox.com/s/pvxpjeon9s1qny1/haberconf.jpg?dl=0",
+    "employeer" : {
+      "name" : "Haberconf",
+      "profession" : "Outsourcing Company"
+    }
+  }
+]
